@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "1094259529995",
+    "firebase_url": "https://test-project-14073.firebaseio.com",
+    "project_id": "test-project-14073",
+    "storage_bucket": "test-project-14073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094259529995:android:59471495d755fe9c",
+        "android_client_info": {
+          "package_name": "com.example.mcao.admob4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094259529995-6497mmb7nvurj9c91mnrd7kk8a9975pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mcao.admob4",
+            "certificate_hash": "c0828e951612ca24983ee1960205134793bc0e9b"
+          }
+        },
+        {
+          "client_id": "1094259529995-int2phnnq4f82ba06048rba73d7e7127.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1rzODMgHmfp11YsqmvTirioFitaP-sc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094259529995-int2phnnq4f82ba06048rba73d7e7127.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094259529995-ccf0t1bap9885s63utjmlrtets6p0lnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creda.testFA"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094259529995:android:01aaee47061fb8f7",
+        "android_client_info": {
+          "package_name": "com.example.mcao.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094259529995-85gvtlgug1qssr3clsml51jnfb123no3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mcao.firebasedemo",
+            "certificate_hash": "c0828e951612ca24983ee1960205134793bc0e9b"
+          }
+        },
+        {
+          "client_id": "1094259529995-int2phnnq4f82ba06048rba73d7e7127.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1rzODMgHmfp11YsqmvTirioFitaP-sc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094259529995-int2phnnq4f82ba06048rba73d7e7127.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094259529995-ccf0t1bap9885s63utjmlrtets6p0lnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "creda.testFA"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
